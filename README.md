@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnalyticAlchemy!
 - 👀 I’m interested in collecting, cleaning, interpreting, and analysing data.
-- 🌱 I’m currently polishing my Power BI, Power Query, DAX, and SQL skills.
+- 🌱 I am an Excel fan and is getting better at using Power BI, Power Query, DAX, and SQL.
 - 💞️ I’m looking to collaborating on beginner-friendly datasets.
 - 📫 How to reach me in my LinkedIn account: www.linkedin.com/in/melinamiralles
 - 😄 Pronouns: She/Her/
