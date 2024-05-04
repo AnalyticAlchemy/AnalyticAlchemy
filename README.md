@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Power BI, Power Query and SQL.
 - 💞️ I’m looking to collaborating on beginner-friendly datasets.
 - 📫 How to reach me in my LinkedIn account: www.linkedin.com/in/melinamiralles
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/Her/
 - ⚡ Fun fact: Did you know that the amount of data created every day is equivalent to 500 million hours of YouTube videos? That's enough to keep you binge-watching for over 57,000 years!
 
 <!---
